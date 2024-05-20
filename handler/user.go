@@ -2,6 +2,7 @@ package handler
 
 import (
 	"github.com/rolograaf/got/view/user"
+	"github.com/rolograaf/got/handler/util"
 	"github.com/labstack/echo/v4"
 )
 
